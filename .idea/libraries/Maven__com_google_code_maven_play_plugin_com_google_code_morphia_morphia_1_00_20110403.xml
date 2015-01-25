@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.code.maven-play-plugin.com.google.code.morphia:morphia:1.00-20110403">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/maven-play-plugin/com/google/code/morphia/morphia/1.00-20110403/morphia-1.00-20110403.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/maven-play-plugin/com/google/code/morphia/morphia/1.00-20110403/morphia-1.00-20110403-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/maven-play-plugin/com/google/code/morphia/morphia/1.00-20110403/morphia-1.00-20110403-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
