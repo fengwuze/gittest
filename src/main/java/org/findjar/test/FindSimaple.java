@@ -26,7 +26,7 @@ public class FindSimaple {
                     while(iter.hasNext()) {
                         System.out.println(iter.next());
                     }
-                    System.out.println("\n");
+                    System.out.println("\n\n");
                 }
             } catch (IOException e) {
                 e.printStackTrace();
