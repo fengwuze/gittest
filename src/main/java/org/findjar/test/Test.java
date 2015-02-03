@@ -28,6 +28,11 @@ public class Test<T, K> {
     }
 
     public static void main(String[] args) {
+        System.out.println("dddd");
+        System.out.println("dddd");
+        System.out.println("dddd");
+        System.out.println("dddd");
+        
         List<OOMObject> s = new ArrayList<OOMObject>();
         int i = 1;
         while(true) {
