@@ -16,7 +16,7 @@ public class GCTest {
         alloc4 = new byte[2*1024*1024];
         Thread.sleep(2000);
 
-        System.out.println("ddddd");
-		System.out.println("ddddd");
+        System.out.println("ddddd1");
+		System.out.println("ddddd2");
     }
 }
