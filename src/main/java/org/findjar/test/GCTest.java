@@ -17,5 +17,6 @@ public class GCTest {
         Thread.sleep(2000);
 
         System.out.println("ddddd");
+		System.out.println("ddddd");
     }
 }
